@@ -15,7 +15,7 @@ The project uses **Dash**, **Plotly**, and **Pandas** to generate a dynamic quad
 It also includes a feature adoption heatmap, filters for deep dives, ZIP-code tools, and web scraping utilities to enrich datasets at scale.
 
 ## Features
-**1. Interactive Sales Value Matrix Dashboard**
+**1. Interactive Sales Value Matrix Dashboard** <br>
 Upload CSV or Excel datasets dynamically <br>
 Automatic detection of value columns (Yes/No fields) <br>
 Automated scoring using a normalized Value Adoption Score <br>
@@ -32,14 +32,14 @@ Agency-level detail panel including:
 - Sales stage
 - Complete feature-adoption breakdown
 
-**2. Feature Adoption Heatmap**
+**2. Feature Adoption Heatmap** <br>
 Rotatable view mode <br>
 Clear ✓ and ✗ annotations <br>
 Sorted by value score <br>
 Useful for operational or product-level decision making
 
-**3. ZIP Code Utilities**
-Includes two supporting scripts:
+**3. ZIP Code Utilities** <br>
+Includes two supporting scripts: <br>
 a) `scrape_zipdata.py`
 - Web-scrapes ZIP code tables from ZipDataMaps MSA URLs
 - Fetches HTML
